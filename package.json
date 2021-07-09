@@ -1,0 +1,19 @@
+{
+  "name": "maths",
+  "version": "0.1.0",
+  "description": "Javascript extensive mathematics utility",
+  "main": "gui/index.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/samthegitguy/maths"
+  },
+  "keywords": [
+    "maths"
+  ],
+  "author": "samthegitguy",
+  "license": "ISC",
+  "devDependencies": {}
+}
