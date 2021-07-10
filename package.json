@@ -4,7 +4,7 @@
   "description": "Javascript extensive mathematics utility",
   "main": "gui/index.js",
   "scripts": {
-    "test": "node tests/test.js"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,7 @@
   ],
   "author": "samthegitguy",
   "license": "ISC",
-  "devDependencies": {}
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
 }

@@ -9,3 +9,6 @@ function add(a) {
 const subtract = (a, b) => a - b
 const divide = (a, b) => a / b
 const multiply = (a, b) => a * b
+
+// Exports
+exports.add = add;
