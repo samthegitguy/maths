@@ -2,7 +2,7 @@
   "name": "maths",
   "version": "0.2.0",
   "description": "Javascript extensive mathematics utility",
-  "main": "gui/index.js",
+  "main": "index.js",
   "scripts": {
     "doc": "jsdoc src README.md -d docs",
     "test": "jest"
