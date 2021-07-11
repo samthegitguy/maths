@@ -1,3 +1,0 @@
-function findPrime(num) {
-    
-}
