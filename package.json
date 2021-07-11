@@ -4,6 +4,7 @@
   "description": "Javascript extensive mathematics utility",
   "main": "gui/index.js",
   "scripts": {
+    "doc": "jsdoc src README.md -d docs",
     "test": "jest"
   },
   "repository": {
