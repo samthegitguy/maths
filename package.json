@@ -4,6 +4,7 @@
   "description": "Javascript extensive mathematics utility",
   "main": "gui/index.js",
   "scripts": {
+    "doc": "jsdoc src README.md -d docs",
     "test": "jest"
   },
   "repository": {
@@ -17,5 +18,8 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^27.0.6"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.1"
   }
 }
