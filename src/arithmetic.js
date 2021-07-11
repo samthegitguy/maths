@@ -12,3 +12,6 @@ const multiply = (a, b) => a * b
 
 // Exports
 exports.add = add;
+exports.subtract = subtract;
+exports.divide = divide;
+exports.multiply = multiply;
