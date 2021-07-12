@@ -28,6 +28,7 @@ const generateSquaresDictionary = function(length) {
  */
 function squareroot(num) {
     return generateSquaresDictionary(num)[num]
+    
 }
 // Exports
 exports.square = square
